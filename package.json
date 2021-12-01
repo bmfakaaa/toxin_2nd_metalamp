@@ -1,0 +1,23 @@
+{
+  "name": "toxin_ml_proj",
+  "version": "1.0.0",
+  "description": "layout project",
+  "scripts": {
+    "start": "parcel index.pug --open",
+    "build": "parcel build index.pug"
+  },
+  "keywords": [
+    "layout",
+    "toxin"
+  ],
+  "author": "bmfakaaa",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-pug": "^2.0.1",
+    "@parcel/transformer-sass": "^2.0.1",
+    "parcel": "^2.0.1"
+  },
+  "dependencies": {
+    "pug-cli": "^1.0.0-alpha6"
+  }
+}
