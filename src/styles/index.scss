@@ -1,22 +1,2 @@
 @import "foot";
 @import "colors";
-
-.testDiv {
-  width: 200px;
-  height: 200px;
-
-  background: $dark-shade-25;
-}
-
-//darken(#b37399, 20%);
-
-//lighten($color, $amount)
-
-////$whiteness and $blackness)
-//
-//color.red() for getting a color’s red channel.
-//            color.green() for getting a color’s green channel.
-//                          color.blue() for getting a color’s blue channel.
-//                                       color.hue() for getting a color’s hue.
-//                                                   color.saturation() for getting a color’s saturation.
-//                                                                      color.lightness() for getting a color’s lightness.
